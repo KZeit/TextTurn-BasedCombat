@@ -1,0 +1,7 @@
+D:\Rebecca\SCHOOL\Software Engineering Technician ONLINE\Coding Practices\C#\GAMES\TurnBasedCombat\Turn_Based_Combat\obj\Debug\Turn_Based_Combat.csproj.AssemblyReference.cache
+D:\Rebecca\SCHOOL\Software Engineering Technician ONLINE\Coding Practices\C#\GAMES\TurnBasedCombat\Turn_Based_Combat\obj\Debug\Turn_Based_Combat.csproj.CoreCompileInputs.cache
+D:\Rebecca\SCHOOL\Software Engineering Technician ONLINE\Coding Practices\C#\GAMES\TurnBasedCombat\Turn_Based_Combat\bin\Debug\Turn_Based_Combat.exe.config
+D:\Rebecca\SCHOOL\Software Engineering Technician ONLINE\Coding Practices\C#\GAMES\TurnBasedCombat\Turn_Based_Combat\bin\Debug\Turn_Based_Combat.exe
+D:\Rebecca\SCHOOL\Software Engineering Technician ONLINE\Coding Practices\C#\GAMES\TurnBasedCombat\Turn_Based_Combat\bin\Debug\Turn_Based_Combat.pdb
+D:\Rebecca\SCHOOL\Software Engineering Technician ONLINE\Coding Practices\C#\GAMES\TurnBasedCombat\Turn_Based_Combat\obj\Debug\Turn_Based_Combat.exe
+D:\Rebecca\SCHOOL\Software Engineering Technician ONLINE\Coding Practices\C#\GAMES\TurnBasedCombat\Turn_Based_Combat\obj\Debug\Turn_Based_Combat.pdb
